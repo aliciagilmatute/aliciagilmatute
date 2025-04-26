@@ -1,4 +1,4 @@
-<img src="/linkedin_banner_def.png" alt="banner_AliciaGilMatute" width="1200" height="480" />
+<img src="/linkedin_banner_def.png" alt="banner_AliciaGilMatute" width="2560" height="1440" />
 
 <!--
 **aliciagilmatute/aliciagilmatute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
