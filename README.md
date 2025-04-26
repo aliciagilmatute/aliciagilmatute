@@ -1,4 +1,4 @@
-![banner_AliciaGilMatute](/linkedin_banner_def.png)
+<img src="/linkedin_banner_def.png" alt="banner_AliciaGilMatute" width="600" />
 
 <!--
 **aliciagilmatute/aliciagilmatute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
