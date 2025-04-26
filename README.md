@@ -1,4 +1,4 @@
-![banner_AliciaGilMatute](C:/Users/alici/Desktop/Alicia/CV/web resources/linkedin_banner_def.png)
+![banner_AliciaGilMatute](/web resources/linkedin_banner_def.png)
 
 <!--
 **aliciagilmatute/aliciagilmatute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
